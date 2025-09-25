@@ -1,7 +1,5 @@
 # Campus Course & Records Manager (CCRM)
 
-**CCRM provides a comprehensive toolkit for managing students, courses, enrollments, and grades through a simple, interactive interface..**
-
 ---
 
 ## Features
@@ -19,14 +17,14 @@
 ## Technical Requirements Demonstrated
 
 - **OOPs :** Encapsulation, Inheritance, Abstraction, Polymorphism  
-- **Exception Handling:** Custom exceptions (`StudentNotFoundException`, `DuplicateEnrollmentException`) 
+- **Exception Handling:** Custom exceptions
 - **File I/O:** Reading/writing data
 - **Java Stream API:** Efficient data processing and filtering  
 - **Date/Time API:** Handling date/time where necessary  
 - **Interfaces & Abstract Classes:** For service and domain layers  
 - **Nested Classes:** Builder pattern for `Course` creation  
 - **Enums:** Semester and Grade enums. 
-- **Design Patterns:** Singleton for `DataStore`, Builder for `Course`  
+- **Design Patterns:** Builder for `Course`  
 - **Recursion** 
 
 ---
